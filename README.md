@@ -17,5 +17,5 @@ This repository contains exploratory data analyses (EDA) of various datasets fro
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ABS-Data-Analysis.git
+   git clone https://github.com/MohitRS/ABS-Data-Analysis.git
    cd ABS-Data-Analysis
